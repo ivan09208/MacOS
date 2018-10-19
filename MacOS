@@ -15,7 +15,7 @@ local URLs = {
 	applicationList = "https://raw.githubusercontent.com/IgorTimofeev/MineOS/master/Files.cfg",
 	installerLocalization = "https://raw.githubusercontent.com/IgorTimofeev/MineOS/master/Localizations/Installer/",
 	EFI = "https://raw.githubusercontent.com/IgorTimofeev/MineOS/master/LICENSE",
-	license = "https://raw.githubusercontent.com/IgorTimofeev/MineOS/master/LICENSE",
+	license = "https://raw.githubusercontent.com/ivan09208/LOL/master/.License",
 }
 
 ------------------------------------------------------------------------------------------------------------------------------------
