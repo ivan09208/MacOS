@@ -46,7 +46,7 @@ if #reasons > 0 and not options.skiphardwarecheck and not options.s then
 	print(" ")
 	for i = 1, #reasons do
 		print(reasons[i])
-		print(" ")
+		print(" OS ")
 	end
 	
 	return
