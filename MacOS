@@ -77,7 +77,7 @@ local function wget(url, path)
 	shell.execute("wget " .. url .. " " .. path .. " -fq")
 end
 
-print("Downloading MineOS file list...")
+print("Downloading MacOS Public Beta file ")
 local path = "/MineOS/System/Files.cfg"
 wget(URLs.applicationList, path)
 applicationList = unserializeFile(path)
